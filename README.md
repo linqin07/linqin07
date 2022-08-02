@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=linqin07&theme=xcode" /> </div>
+
+<!-- 访客数统计徽标 -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=linqin07" alt="访客统计" /></div>
+  
+  <!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/linqin07/linqin07/contribution-snake/github-contribution-grid-snake.svg" /></div>
